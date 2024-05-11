@@ -4,14 +4,14 @@
 
 🎓 **Education:**
 - Third-year student at Jilin University, majoring in Computer Science
-- Member of the esteemed Tang Ao-qing Honors Program
+- Member of the Tang Ao-qing Honors Program
 
 👨‍🏫 **Research Focus:**
 - Collaborating with Associate Professor Ting Long on Retrieval-Augmented Generation
 
 💡 **Research Interests:**
 - Exploring **Multimodal Learning (MM)** and the Fine-Tuning/Application of **Large Language Models (LLMs)**
-- Thrive on delving into emerging frontiers in research and innovation 🌟
+- Passionate about exploring new domains and establishing novel knowledge frameworks.
 
 📄 **CV:**
 - Check out my CV here: [Zhouyuan Ma’s CV](./cv/resume_mzy.pdf)
@@ -31,6 +31,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href=""><img alt="WeChat" src="https://img.shields.io/badge/w13069127150-blue?style=flat-square&logo=wechat"></a>
+<a href=""><img alt="WeChat" src="https://img.shields.io/badge/WeChat-w13069127150-blue?style=flat-square&logo=wechat"></a>
 <a href="mailto:mazy2121@mails.jlu.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-mazy2121@mails.jlu.edu.cn-blue?style=flat-square&logo=maildotru"></a>
 </p>

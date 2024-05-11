@@ -2,13 +2,19 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I’m a third year student from Jilin University majoring in computer science as a member of Tang Ao-qing Honors Program.
+🎓 **Education:**
+- Third-year student at Jilin University, majoring in Computer Science
+- Member of the esteemed Tang Ao-qing Honors Program
 
-I am working with Associate Professor Ting Long focusing on Retrieval-Augmented Generation, in my third year of study at Jilin University.
+👨‍🏫 **Research Focus:**
+- Collaborating with Associate Professor Ting Long on Retrieval-Augmented Generation
 
-My current research interest lies in multimodal learning and the fine-tuning/application of Large Language Models (LLMs). I aspire to further my studies and expertise in similar domains in the future, while also nurturing a fervor for exploring emerging frontiers in research and innovation🌟.
+💡 **Research Interests:**
+- Exploring **Multimodal Learning (MM)** and the Fine-Tuning/Application of **Large Language Models (LLMs)**
+- Thrive on delving into emerging frontiers in research and innovation 🌟
 
-You can find my CV here: [Zhouyuan Ma’s CV](./cv/resume-mzy.pdf)
+📄 **CV:**
+- Check out my CV here: [Zhouyuan Ma’s CV](./cv/resume_mzy.pdf)
 
 ### 🛠 &nbsp; My Tech Stack
 

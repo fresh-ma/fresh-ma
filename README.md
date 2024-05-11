@@ -25,5 +25,5 @@ You can find my CV here: [Zhouyuan Ma’s CV](./cv/resume-mzy.pdf)
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="mazy2121@mails.jlu.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-mazy2121@mails.jlu.edu.cn-blue?style=flat-square&logo=maildotru"></a>
+<a href="mailto:mazy2121@mails.jlu.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-mazy2121@mails.jlu.edu.cn-blue?style=flat-square&logo=maildotru"></a>
 </p>

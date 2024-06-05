@@ -10,7 +10,7 @@
 - Collaborating with Associate Professor Ting Long on Retrieval-Augmented Generation
 
 💡 **Research Interests:**
-- Exploring **Multimodal Learning (MM)** and the Fine-Tuning/Application of **Large Language Models (LLMs)**
+- Exploring **Multimodal Learning (MM)** and the Fine-Tuning / Application of **Large Language Models (LLMs)**
 - Passionate about exploring new domains and establishing novel knowledge frameworks.
 
 📄 **CV:**
